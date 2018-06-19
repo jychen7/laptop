@@ -41,6 +41,7 @@ brew "mysql", restart_service: :changed
 # Applications
 cask "gpg-suite"
 
+cask "cmd-eikana"
 cask "iterm2"
 cask "sourcetree"
 cask "sublime-text"
