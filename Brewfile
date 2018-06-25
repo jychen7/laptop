@@ -44,7 +44,7 @@ cask "gpg-suite"
 cask "cmd-eikana"
 cask "iterm2"
 cask "sourcetree"
-cask "sublime-text"
+cask "sublime-text2"
 cask "macvim"
 cask "macdown"
 
